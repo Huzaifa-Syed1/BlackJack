@@ -1,0 +1,58 @@
+body{ 
+    background: linear-gradient(
+        135deg,
+        rgb(103, 147, 41) 0%,
+        rgb(15, 231, 15) 33%,
+        rgb(130, 208, 126) 66%,
+        rgb(15, 231, 15) 100%);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;  
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: goldenrod;
+}
+p{
+    color: aliceblue;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#message-element{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+}
+#btn{
+    color: #016f32;
+    width: 150px;
+    height: 25px;
+    background: goldenrod;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+#btn:active{
+    font-size:13px;
+    height: 24px;
+    width: 148px;
+}
+#n{
+    color: #016f32;
+    width: 150px;
+    height: 25px;
+    background: goldenrod;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+#n:active{
+    font-size:13px;
+    height: 24px;
+    width: 148px;
+}
+   
