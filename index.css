@@ -1,10 +1,11 @@
 body{ 
-    background: linear-gradient(
+    /* background: linear-gradient(
         135deg,
         rgb(103, 147, 41) 0%,
         rgb(15, 231, 15) 33%,
         rgb(130, 208, 126) 66%,
-        rgb(15, 231, 15) 100%);
+        rgb(15, 231, 15) 100%); */
+        background-image: url("https://img.freepik.com/premium-vector/green-chalkboard-illustration_9845-457.jpg?w=360");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
